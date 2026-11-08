@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "ultimate-armor:item/goetter_axe"
+  }
+}
